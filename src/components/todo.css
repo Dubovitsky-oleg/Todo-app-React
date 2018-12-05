@@ -1,0 +1,11 @@
+.btn-delete {
+  display: inline-block;
+  background: #fff;
+  border: 0 solid #fff;
+  outline: none;
+  color: red;
+}
+
+.text {
+  display: inline-block;
+}
